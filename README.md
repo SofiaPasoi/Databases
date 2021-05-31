@@ -23,3 +23,8 @@ GapMinder: https://www.gapminder.org/data/
 
 Επιπλέον υπάρχει και ένα Video Report με σύντομες εξηγήσεις και εκτέλεση παραδείγματος. 
 Μπορείτε να το δείτε: https://youtu.be/pogM4Y7MNtw
+
+# Ομάδα
+  Υλοποιήθηκε από τους:
+    1. Βλαχοθανάση Νικόλαο(GitHub username: nickolasvlachothanasis)
+    2. Πασόη Σοφία (GitHub username: Sofia Pasoi)
