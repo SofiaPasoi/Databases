@@ -13,6 +13,7 @@
 
 # Πηγή Δεδομένων
 Για την τροφοδόση της βάσης επιλέξαμε διάφορους δείκτες απο τη σελίδα:
+
 GapMinder: https://www.gapminder.org/data/
 
 # Περιεχόμενα
@@ -25,6 +26,7 @@ GapMinder: https://www.gapminder.org/data/
 Μπορείτε να το δείτε: https://youtu.be/pogM4Y7MNtw
 
 # Ομάδα
-  Υλοποιήθηκε από τους:
-    1. Βλαχοθανάση Νικόλαο(GitHub username: nickolasvlachothanasis)
-    2. Πασόη Σοφία (GitHub username: Sofia Pasoi)
+
+Υλοποιήθηκε από τους:
+  1. Βλαχοθανάση Νικόλαο(GitHub username: nickolasvlachothanasis)
+  2. Πασόη Σοφία (GitHub username: Sofia Pasoi)
